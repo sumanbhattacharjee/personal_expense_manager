@@ -1,0 +1,12 @@
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/config/CorsConfig.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/model/Expense.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/controller/ExpenseController.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/service/CategoryService.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/repository/ExpenseRepository.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/controller/CategoryController.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/repository/CategoryRepository.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/exception/ResourceNotFoundException.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/model/Category.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/dto/ExpenseRequest.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/service/ExpenseService.java
+/workspaces/personal_expense_manager/src/main/java/com/raatus/personalexpensemanager/PersonalExpenseManagerApplication.java
